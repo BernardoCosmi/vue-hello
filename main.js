@@ -6,6 +6,8 @@ createApp({
             messaggio: 'Non so bene cosa scriverci',
 
             immagine: 'https://picsum.photos/500/400',
+
+            testo: 'facciamo finta che questa sia una descrizione accurata'
         };
     },
 }).mount('#app')
